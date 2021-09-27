@@ -3,6 +3,8 @@
 Projet annexe effectué lors de mon stage au sein d'**Ultrō**.
 Suite à la création d'un thème Wordpress sur-mesure pour le compte de **Picture Organic Clothing**, l'objectif était de réaliser cette fois çi l'intégration dynamique du blog via GatsbyJS, un framework basé sur React et alimenté par GraphQL (pour récupérer les articles et autres données basés sur Wordpress) afin de proposer une solution alternative (plus performante et mieux sécurisée) au client.
 
+![Screenshot](screenshot.png)
+
 ## 🚀 Installation
 
 Pour lancer le projet, vous pouvez suivre **le guide [Gatsby Wordpress Quickstart](https://github.com/gatsbyjs/gatsby-source-wordpress-experimental/blob/master/docs/getting-started.md#quick-start)**
@@ -21,5 +23,4 @@ Pour lancer le projet, vous pouvez suivre **le guide [Gatsby Wordpress Quickstar
 
 ## 💫 Demo
 
-Vidéo de démonstration du site disponible ici:
-`https://drive.google.com/file/d/1T5zzW0QRBbjfzjGlWh0uzvURBvscKNgF`
+Vidéo de démonstration du site disponible [ici](https://drive.google.com/file/d/1T5zzW0QRBbjfzjGlWh0uzvURBvscKNgF).
