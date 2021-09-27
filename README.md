@@ -9,7 +9,7 @@ Suite à la création d'un thème Wordpress sur-mesure pour le compte de **Pictu
 
 Pour lancer le projet, vous pouvez suivre **le guide [Gatsby Wordpress Quickstart](https://github.com/gatsbyjs/gatsby-source-wordpress-experimental/blob/master/docs/getting-started.md#quick-start)**
 
-## 🧐 Présentation des fichiers
+## 👀 Présentation des fichiers
 
 1.  **`/node_modules`**: Ce répertoire contient tous les modules installés dépendant du projet (npm packages).
 
