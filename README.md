@@ -23,4 +23,4 @@ Pour lancer le projet, vous pouvez suivre **le guide [Gatsby Wordpress Quickstar
 
 ## 💫 Demo
 
-Vidéo de démonstration du site disponible [ici](https://drive.google.com/file/d/1T5zzW0QRBbjfzjGlWh0uzvURBvscKNgF).
+Vidéo de démonstration du site disponible [ici](https://youtu.be/HH5K28mIiEk?si=y28ElToezK0eoxvL).
